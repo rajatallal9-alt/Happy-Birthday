@@ -111,7 +111,8 @@ html, body {
   <p>آپ کی آنکھیں—وہ گہرا سیاہ رنگ جو عام نہیں، ایک ایسے راز کی طرح ہے جو صرف خوبصورتی نہیں… گہرائی بھی رکھتا ہے۔</p>
   <div class="quote">"Aap ki aankhein woh gehra kaala rang jo na sirf khoobsurat hain balkay puri kainat in ma samai hoi ha."
 <br>"Aap ki aankhon me koi ajeeb si khamosh chamak hai jo dekhne wale ko rok leti hai."</div>
-  <p> نور ہی نور سے مکھڑے پہ وہ نوری آنکھیں
+  <p>
+نور ہی نور سے مکھڑے پہ وہ نوری آنکھیں
 اس کے انجیل سے چہرے پہ زبوری آنکھیں<p/>
 <button class="btn-next" onclick="nextSection()">Next</button>
 </div>
